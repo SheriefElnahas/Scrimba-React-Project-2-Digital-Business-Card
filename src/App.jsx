@@ -1,7 +1,7 @@
 import './App.css';
 import erenImg from './assets/Eren Yeager.jpg';
 import zekeImg from './assets/Zeke Yeager.jpg';
-import erwinImg from './assets/Reiner Braun.jpg'
+import reinerImg from './assets/Reiner Braun.jpg'
 
 const characters = {
   erenYeager: {
@@ -22,7 +22,7 @@ const characters = {
   reinerBraun: {
     name: 'Reiner Braun',
     titan: 'The Armored Titan',
-    img: erwinImg,
+    img: reinerImg,
     about:'Is the Vice Captain of the Warrior Unit and the main protagonist of Attack on Titan from the Marleyan perspective.',
     interests: 'In human form, Reiner has short blond hair, hazel eyes, and a defined facial structure.'
   }
