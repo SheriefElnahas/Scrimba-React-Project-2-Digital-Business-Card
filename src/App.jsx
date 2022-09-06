@@ -1,13 +1,14 @@
 import './App.css';
 
 import Info from './Info';
-import About from './About';
+import Section from './Section';
 
 function App() {
   return (
     <div className="app">
       <Info />
-      <About />
+      <Section title="About" text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sit blanditiis ducimus labore sunt placeat veniam iusto tempore ex dolorem."/>
+      <Section title="Interests" text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum sit blanditiis ducimus labore sunt placeat veniam iusto tempore ex dolorem."/>
     </div>
   )
 }
