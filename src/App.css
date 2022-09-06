@@ -11,8 +11,7 @@ body {
 .app {
   background:#1A1B21;
   width:317px;
-  margin:3rem auto;
-
+  margin:1rem auto;
 }
 
 h2 {
@@ -41,9 +40,9 @@ h2 + p {
 }
 
 .footer svg {
-  font-size:1.5rem;
+  font-size:1.3rem;
   background: #918E9B;
   padding:0.2rem;
-  margin:1.5rem 0.8rem;
+  margin:0.8rem 0.8rem;
   cursor: pointer;
 }

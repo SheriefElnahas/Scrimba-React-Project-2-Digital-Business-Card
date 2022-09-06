@@ -12,7 +12,7 @@ function Info() {
             <h1 className='info-name'>   Eren Yeager</h1>
             <p className='info-job'>Front End Developer</p>
             <p className='info-website'>erenyeager.website</p>
-            <button className='info-btn'> <FontAwesomeIcon icon={faEnvelope} /> Email</button>
+
         </div>
     )
 }
