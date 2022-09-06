@@ -1,7 +1,7 @@
 img {
     width:100%;
     display:block;
-    height:300px;
+    height:290px;
     object-fit: fill;
     border-radius: 5px;
 }
@@ -19,7 +19,7 @@ img {
 
 }
 
-.info-job {
+.info-titan {
     color:#F3BF99;
     font-size:13px;
     margin:0;
@@ -41,4 +41,9 @@ img {
     font-weight: bold;
     margin-left:5px;
     cursor: pointer;
+    margin:0.8rem;
+}
+
+.icon {
+    margin-right:8px;
 }
